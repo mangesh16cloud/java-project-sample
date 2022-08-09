@@ -5,7 +5,7 @@ import static org.junit.Assert.assertTrue;
 import org.junit.Test;
 
 /**
- * Unit test for simple App of java with jenkins.
+ * Unit test for simple App of javas with jenkins.
  */
 public class AppTest 
 {
